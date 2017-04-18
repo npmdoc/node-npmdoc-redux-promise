@@ -1,9 +1,14 @@
-# api documentation for  [redux-promise (v0.5.3)](https://github.com/acdlite/redux-promise)  [![npm package](https://img.shields.io/npm/v/npmdoc-redux-promise.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-redux-promise) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-redux-promise.svg)](https://travis-ci.org/npmdoc/node-npmdoc-redux-promise)
+# npmdoc-redux-promise
+
+#### api documentation for  [redux-promise (v0.5.3)](https://github.com/acdlite/redux-promise)  [![npm package](https://img.shields.io/npm/v/npmdoc-redux-promise.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-redux-promise) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-redux-promise.svg)](https://travis-ci.org/npmdoc/node-npmdoc-redux-promise)
+
 #### FSA-compliant promise middleware for Redux.
 
-[![NPM](https://nodei.co/npm/redux-promise.png?downloads=true)](https://www.npmjs.com/package/redux-promise)
+[![NPM](https://nodei.co/npm/redux-promise.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/redux-promise)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-redux-promise/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-redux-promise_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-redux-promise/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-redux-promise/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-redux-promise/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-redux-promise/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-redux-promise/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-redux-promise/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Andrew Clark",
-        "email": "acdlite@me.com"
+        "name": "Andrew Clark"
     },
     "bugs": {
         "url": "https://github.com/acdlite/redux-promise/issues"
@@ -57,13 +61,11 @@
     "main": "lib/index.js",
     "maintainers": [
         {
-            "name": "acdlite",
-            "email": "acdlite@me.com"
+            "name": "acdlite"
         }
     ],
     "name": "redux-promise",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/acdlite/redux-promise.git"
@@ -75,16 +77,6 @@
     "version": "0.5.3"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module redux-promise](#apidoc.module.redux-promise)
-
-
-
-# <a name="apidoc.module.redux-promise"></a>[module redux-promise](#apidoc.module.redux-promise)
 
 
 
