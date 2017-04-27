@@ -1,6 +1,6 @@
 # npmdoc-redux-promise
 
-#### api documentation for  [redux-promise (v0.5.3)](https://github.com/acdlite/redux-promise)  [![npm package](https://img.shields.io/npm/v/npmdoc-redux-promise.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-redux-promise) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-redux-promise.svg)](https://travis-ci.org/npmdoc/node-npmdoc-redux-promise)
+#### basic api documentation for  [redux-promise (v0.5.3)](https://github.com/acdlite/redux-promise)  [![npm package](https://img.shields.io/npm/v/npmdoc-redux-promise.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-redux-promise) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-redux-promise.svg)](https://travis-ci.org/npmdoc/node-npmdoc-redux-promise)
 
 #### FSA-compliant promise middleware for Redux.
 
@@ -74,7 +74,8 @@
         "prepublish": "make clean build",
         "test": "make test"
     },
-    "version": "0.5.3"
+    "version": "0.5.3",
+    "bin": {}
 }
 ```
 
